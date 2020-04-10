@@ -1,0 +1,3 @@
+public staic vodi main(String[] args){
+System.out.print("hello worl");
+}
